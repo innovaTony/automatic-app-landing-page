@@ -5,31 +5,31 @@ page_title                                :                                     
 ios_app_id                                : 6504303742                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+appstore_link                             : https://apps.apple.com/lb/app/ganttlify/id6504303742                                         # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.ideer                                          # Enter Google Play Store URL.
+presskit_download_link                    :                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : ganttLify                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Transform project management with our gamified app! Track, analyze, and visualize your tasks effortlessly using Gantt charts, EVM, CPM, curves... For pros and hobbyists!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : Antoine Aoun                                
+your_link                                 : https://innovatony.com                     
+your_city                                 : Beirut                                
+email_address                             : antoinenaoun@gmail.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : innovatonyy
+twitter_username                          : innovatony
+github_username                           : innovatony
 youtube_username                          :
-mastodon_link                             : https://mastodon.social/@ebaehr
+mastodon_link                             : 
 
 
 
