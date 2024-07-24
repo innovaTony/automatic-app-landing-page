@@ -7,7 +7,7 @@ Designed for GitHub Pages for super easy set up.
 
 🗝 Enter iOS App ID in `_config.yml`
 
-📲 Upload video preview or screenshot
+📲 Upload video preview or screenshot 
 
 🎨 Customise site in `_config.yml` (no HTML/CSS)
 
