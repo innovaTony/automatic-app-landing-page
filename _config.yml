@@ -38,11 +38,11 @@ features                                  :
 
   - title                                 : Critical Path Method (CPM)
     description                           : Identify the most crucial tasks that can impact your project's timeline. Stay ahead by focusing on these critical activities to ensure timely project completion.
-    fontawesome_icon_name                 : chart-bullet
+    fontawesome_icon_name                 : chart-gantt
     
   - title                                 : Earned Value Management (EVM)
     description                           : Track your project’s performance with precision. Analyze cost and schedule variances to keep your project on budget and on time.
-    fontawesome_icon_name                 : magnifying-glass-chart
+    fontawesome_icon_name                 : file-invoice
 
   - title                                 : Gantt Chart
     description                           : Visualize your project timeline with Gantt charts. Easily see task dependencies, deadlines, and progress at a glance.
@@ -50,7 +50,7 @@ features                                  :
 
   - title                                 : Cumulative Cost Curve (SCurve)
     description                           : Monitor your project’s financial health with cumulative cost curves. Compare planned vs. actual spending to control costs effectively.
-    fontawesome_icon_name                 : chart-mixed
+    fontawesome_icon_name                 : chart-line
 
   - title                                 : Text Notes & To-Dos
     description                           : Organize your thoughts and tasks with simple text notes and to-dos. Never miss a detail, whether it's a quick reminder or a comprehensive task list.
