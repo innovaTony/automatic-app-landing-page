@@ -36,45 +36,45 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Critical Path Method (CPM)
+    description                           : Identify the most crucial tasks that can impact your project's timeline. Stay ahead by focusing on these critical activities to ensure timely project completion.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Earned Value Management (EVM)
+    description                           : Track your project’s performance with precision. Analyze cost and schedule variances to keep your project on budget and on time.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Gantt Chart
+    description                           : Visualize your project timeline with Gantt charts. Easily see task dependencies, deadlines, and progress at a glance.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Cumulative Cost Curve (SCurve)
+    description                           : Monitor your project’s financial health with cumulative cost curves. Compare planned vs. actual spending to control costs effectively.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Text Notes & To-Dos
+    description                           : Organize your thoughts and tasks with simple text notes and to-dos. Never miss a detail, whether it's a quick reminder or a comprehensive task list.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Sketch & Draw
+    description                           : Bring your ideas to life with sketches and drawings. Visualize tasks and concepts in a creative, intuitive way that enhances understanding and communication.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : AI support (Soon)
+    description                           : Unlock the future of project management with our AI-powered tools, leveraging data-driven insights to enhance efficiency, accuracy, and success in your projects.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : AR/VR support (Soon)
+    description                           : Experience the next level of project management with immersive AR and VR capabilities, seamlessly integrated for enhanced visualization and collaboration using devices like Apple Vision Pro.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Voice note support (Soon)
+    description                           : Navigate the app faster with audio / voice note commands!
     fontawesome_icon_name                 : info-circle
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Teams support (Soon)
+    description                           : Work in teams! Communicate & Leverage the tools here to co-track tasks
+    fontawesome_icon_name                 : info-circle
 
 
 
